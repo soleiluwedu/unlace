@@ -1,0 +1,26 @@
+{
+  "name": "unlace",
+  "version": "0.0.0-alpha.10",
+  "description": "Written by Thai-Duong Nguyen, unlace.js is a function that returns recursively stringified data to allow full inspection of JavaScript expressions. Circular references are given a placeholder '[circular reference]'.",
+  "main": "unlace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soleiluwedu/unlace.git"
+  },
+  "keywords": [
+    "strings",
+    "stringify",
+    "object",
+    "inspection",
+    "console.log"
+  ],
+  "author": "Thai-Duong Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soleiluwedu/unlace/issues"
+  },
+  "homepage": "https://github.com/soleiluwedu/unlace#readme"
+}
